@@ -1,0 +1,20 @@
+node_modules/**/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+
+#IDEs
+.idea
+.vscode
+
+#Log files
+
+#Expo
+.expo-shared
+.expo/*
